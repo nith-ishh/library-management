@@ -58,3 +58,5 @@ while True:
     else:
         print("Invalid choice. Try again.")
 
+print("Thank you for using the Library Management System!")
+print("Program terminated successfully.")
